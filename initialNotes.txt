@@ -8,7 +8,13 @@ Comandos:
 	- process
 	- process.exit(); //fechar o node
 
+Node Documentation: https://nodejs.org/api/
+
 Non-Blocking I/O = "executa tudo ao mesmo tempo"
 "Largest ecosystem of open source libraries in the world"
 
 Libraries:   npm (Node.js package ecosystem) - https://www.npmjs.com ou google.com
+
+
+
+Executar: node nome.js
