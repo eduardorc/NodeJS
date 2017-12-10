@@ -1,0 +1,14 @@
+NODEJS
+
+Node foi criado para trazer o que antes era executado apenas nos navegadores para o "computador".
+
+Acionar node no bash: node
+Comandos:
+	- global
+	- process
+	- process.exit(); //fechar o node
+
+Non-Blocking I/O = "executa tudo ao mesmo tempo"
+"Largest ecosystem of open source libraries in the world"
+
+Libraries:   npm (Node.js package ecosystem) - https://www.npmjs.com ou google.com
