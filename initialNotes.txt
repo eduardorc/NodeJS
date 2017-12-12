@@ -15,6 +15,7 @@ Non-Blocking I/O = "executa tudo ao mesmo tempo"
 
 Libraries:   npm (Node.js package ecosystem) - https://www.npmjs.com ou google.com
 
-
-
 Executar: node nome.js
+
+Ativar NPM:
+cmd: npm init

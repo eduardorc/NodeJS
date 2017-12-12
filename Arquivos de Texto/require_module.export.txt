@@ -1,0 +1,19 @@
+REQUIRE - Requisitando bibliotecas ou outros arquivos
+
+sintaxe:
+
+varType nome = require ('name'); //Name: api
+varType nome = require (./nomPasta/nome_arquivo);
+
+
+MODULE.EXPORT = exportando arquivos/funções
+
+sintaxe:
+
+module.export.NOME = function () {};
+module.export.NOME = () => {};
+
+
+NPM:
+
+ativar no node: 
