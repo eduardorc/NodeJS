@@ -1,0 +1,30 @@
+NPM - Como usar:
+
+Acessar CMD e mostrar que irá usar NPM:
+Testar instalado: npm -v (deverá aparecer a versão)
+Iniciando:
+Navegar até a pasta e:
+
+  npm init
+    //Após iniciar, irá realizar alguns questionamentos
+    name: //setar nome
+    version: (1.0.0) //ou alguma outra versão
+    description: //pode deixar empty
+    entry point: (app.js) //ainda não sei
+    test command: //mais pra frente
+    git repository: //maisp ra frente
+    keyword: //em caso de publicar, keywords de pesquisa
+    author: NOME //Nome do autor
+    license: (ISC) //mudar se preciso
+
+  Instalando um módulo:
+    npm install lodash --save //cria uma node_modules folder
+
+  Quando for mandar:
+    Apagar a pasta node_modules
+    Mandar só os outros arquivos
+    Rodar npm install que irá instalar o que está descrito no package.json
+
+  Quando for mandar pro gitHub:
+    Adicionar um ignore para não enviar a pasta
+  
