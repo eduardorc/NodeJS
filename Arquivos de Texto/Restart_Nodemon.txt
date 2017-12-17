@@ -1,0 +1,16 @@
+Nodemon será instalado pelo CMD e tem a função de monitorar
+o que acontece no arquivo e reinicia-lo toda vez que alterações
+forem feitas, sem ter que executar o comando de novo no cmd.
+
+
+  npm install -g Nodemon //-g instala global, para todos
+
+Iniciar em uma aplicação:
+  nodemon nome.js
+
+Fechar:
+ ctrl+c
+
+
+Exemplo de utilidade: qnd alterar algo em um servidor, não esquece
+de reiniciar o servidor.

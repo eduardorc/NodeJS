@@ -19,6 +19,7 @@ Navegar até a pasta e:
 
   Instalando um módulo:
     npm install lodash --save //cria uma node_modules folder
+    //--save edita o package.json
 
   Quando for mandar:
     Apagar a pasta node_modules
@@ -27,4 +28,3 @@ Navegar até a pasta e:
 
   Quando for mandar pro gitHub:
     Adicionar um ignore para não enviar a pasta
-  
